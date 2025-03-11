@@ -1,9 +1,9 @@
-# 👋 Hi there, I'm Max Sauerwein!
+# 👋 Hi there, I'm Max!
 
 **`IT student at Trier University of Applied Sciences`**
 
-📚 Ich studiere Informatik und liebe es, Websites zu programmieren.
-💻 Hier findest du meine Projekte rund um Webentwicklung und mehr.
+📚 Ich studiere Informatik und liebe es, Websites zu programmieren.<br>
+💻 Hier findest du meine Projekte rund um Webentwicklung und mehr.<br>
 🚀 Immer offen für neue Herausforderungen und spannende Technologien!
 
 <p align="left">
