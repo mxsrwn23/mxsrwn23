@@ -7,10 +7,12 @@
 🚀 Immer offen für neue Herausforderungen und spannende Technologien!
 
 <p align="left">
+    <a href="https://www.instagram.com/mx_srwn.23/">
+        <img alt="instagram follow" src="https://img.shields.io/badge/-Follow%20Me-E4405F?logo=instagram&logoColor=white&style=for-the-badge"></a>
     <a href="https://github.com/mxsrwn23?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mxsrwn23?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/mxsrwn23?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mxsrwn23?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mxsrwn23?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <a href="https://github.com/mxsrwn23?tab=repositories&sort=stargazers">
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mxsrwn23?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
 ---
