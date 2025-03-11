@@ -2,9 +2,9 @@
 
 **`IT student at Trier University of Applied Sciences`**
 
-📚 Ich studiere Informatik und liebe es, Websites zu programmieren.<br>
-💻 Hier findest du meine Projekte rund um Webentwicklung und mehr.<br>
-🚀 Immer offen für neue Herausforderungen und spannende Technologien!
+📚 I study computer science and love programming websites.<br>
+💻 Here you can find my projects around web development and more.<br>
+🚀 Always open to new challenges and exciting technologies!
 
 <p align="left">
     <a href="https://www.instagram.com/mx_srwn.23/">
