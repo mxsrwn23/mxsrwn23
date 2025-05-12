@@ -19,7 +19,7 @@
 ---
 
 ### 🧰 Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,cpp,flutter,dart,swift)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,cpp,flutter,dart,swift,ansible)](https://skillicons.dev)
 <br />
 
 #
